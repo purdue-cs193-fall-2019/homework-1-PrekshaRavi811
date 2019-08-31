@@ -1,12 +1,6 @@
-# **Preksha Tharigonda Ravikumar**
+# Preksha Tharigonda Ravikumar's First CS193 Homework
 
-A little about me:
-* I'm a freshman in CS at Purdue.
-* I love reading books
-* I sing
-* I also love Marvel movies and Harry Potter
-
-Here's a quote from Harry Potter that I figured would be good advice:
-> It does not do to dwell on dreams and forget to live.
-
-_I hope everyone has an amazing semester! Good Luck!_
+Favourite things about CS193:
+- The lecturers are cool.
+- The fact that the USB is looking out for us by wanting to equip us with skills we'll need for college, but no one teaches, is amazing and   I love them for that, especially because I'm a beginner in CS.
+- The classes are super fun and informative at the same time.
